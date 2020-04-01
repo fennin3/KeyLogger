@@ -1,0 +1,45 @@
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Couldn't get public IP address (most likely max query)Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
+Public IP address: 154.160.26.77Processor: Intel64 Family 6 Model 55 Stepping 8, GenuineIntel
+SystemWindows 10.0.17134
+Machine: AMD64
+Hostname: DESKTOP-7RI8TJT
+Private IP Address: 192.168.56.1
